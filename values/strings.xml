@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AssignmentOne</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="description" >Ten is the debut album of the American Rock band Pearl Jam. It was released on August 27, 1991 through Epic Records. The band has Eddie Vedder on vocals, Jeff Ament on bass, Stone Gossard and Mike McCready on guitars and Dave Krusen on drums. </string>
+    <string name="description1" >Facelift is the debut album of the American Rock band Alice in Chains. It was released on August 27, 1991 through Epic Records. The band has Layne Staley on vocals, Jerry Cantrell on guitar and vocals, Mike Starr on bass and Sean Kinney on drums. </string>
+    <string name="description2" >Badmotorfinger is an album by the American Rock band Soundgarden. It was released on August 27, 1991 through Epic Records. The band has Chriss Cornell on vocals and guitar, Kim Thayil on guitar, Ben Shepherd on bass and Matt Cameron on drums. </string>
+    <string name="description3" >Core is the debut album of the American Rock band Stone Temple Pilots. It was released on August 27, 1991 through Epic Records. The band has Scott Weiland on vocals, Dean Deleo on guitar, Robert Deleo on bass and Eric Kretz on drums. </string>
+</resources>
